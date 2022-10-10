@@ -35,7 +35,7 @@ ptt: false, seconds: 0,contextInfo: {
     description: 'www.instagram.com/_ctzhid',
     title: "Now Playing...",
     body: wm,
-    thumbnail: await (await fetch('https://i.ibb.co/XZrK6yQ/transformers.jpg')).buffer(),
+    thumbnail: await (await fetch('https://i.ibb.co/Fm9ZZ8J/thumbnail.jpg')).buffer(),
     sourceUrl: 'www.instagram.com/_ctzhid'
  	  }
      }
