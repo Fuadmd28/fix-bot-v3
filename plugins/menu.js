@@ -359,7 +359,7 @@ let tek = `✧────···[ Dashboard ]···────✧
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
 │
-│ ▸ *Sumber :* YouTube WH-MODS-DEV
+│ ▸ *Sumber :* Nekopoi.care
 │ ▸ *ᴀᴜᴛʜᴏʀ :* ${nameown}
 ┴ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
 ✧
