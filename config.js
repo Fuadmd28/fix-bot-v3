@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 NeKo-Botzz 」' //Main Watermark
+global.wm = '                「 NeKo-Botzz V3」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NeKo-Botzz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ NeKo-Botzz '
+global.wm3 = '⫹⫺ NeKo-Botzz V3'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Bang Fuad`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 NeKo-Botzz  あ」'
+global.author = '                「 NeKo-Botzz V3 あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,7 +636,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'NeKo-Botzz'
+global.stickpack = 'NeKo-Botzz V3'
 global.stickauth = `By ©Bang Fuad`
 
 global.multiplier = 38 // The higher, The harder levelup
